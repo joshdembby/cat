@@ -1,0 +1,29 @@
+.cat-pic{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    width: 120px;
+}
+.cat1{
+    width: 130px;
+    height: 100px;
+}
+.name{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    line-height: 0.200px;
+}
+.btn{
+    height: 30px;
+    width: 60px;
+    background: rgb(4, 4, 211);
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
